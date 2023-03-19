@@ -108,7 +108,9 @@ cv2.waitKey(0)
 ### v)Cut and paste portion of image
 
 <br>
-![o5](https://user-images.githubusercontent.com/93427210/226158003-c3e34122-3c28-4da3-8ee0-f16de679b34a.png)
+
+![o5](https://user-images.githubusercontent.com/93427210/226158182-fab6ee7f-3b12-4c1e-a10f-1f83d7f3b337.png)
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
