@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
@@ -109,3 +110,8 @@ cv2.waitKey(0)
 Thus the images are read, displayed, and written successfully using the python program.
 
 
+=======
+
+
+
+>>>>>>> 4ee0bee9316418e5fd9704ddfd28e7ed00d86ec1
