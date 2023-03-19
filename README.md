@@ -110,7 +110,6 @@ cv2.waitKey(0)
 Thus the images are read, displayed, and written successfully using the python program.
 
 
-=======
 
 
 
