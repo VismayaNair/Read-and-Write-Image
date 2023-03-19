@@ -85,21 +85,21 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-![output](o1.png)
+![git.output](o1.png)
 
 
 ### ii)Write the image
 
-![output](o2.png)
+![git.output](o2.png)
 
 
 ### iii)Shape of the Image
 
-<br>![output](o3.png)
+<br>![git.output](o3.png)
 <br>
 
 ### iv)Access rows and columns
-<br>![output](o4.png)
+<br>![git.output](o4.png)
 <br>
 
 ### v)Cut and paste portion of image
