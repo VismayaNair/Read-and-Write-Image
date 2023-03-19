@@ -103,7 +103,7 @@ cv2.waitKey(0)
 <br>
 
 ### v)Cut and paste portion of image
-<br> ![output](o5.png)
+<br> ![git.output](o5.png)
 <br>
 
 ## Result:
