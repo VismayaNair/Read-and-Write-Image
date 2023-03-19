@@ -84,13 +84,13 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-<br>![output](o1.png)
-<br>
+![output](o1.png)
+
 
 ### ii)Write the image
 
-<br>![output](o2.png)
-<br>
+![output](o2.png)
+
 
 ### iii)Shape of the Image
 
